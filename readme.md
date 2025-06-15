@@ -25,9 +25,9 @@ This document proposes a matching system where you interact exclusively through 
 
 * When the AI identifies potential matches, it comes back to users with follow-up questions:
 
-  * "Are you interested in this person? Why or why not?"
+  * The AI would propose the potential match to the user: "Are you interested in this person? Why or why not?"
   * "This user had a question about something important to them. Could you clarify your stance or details on that?"
-* The user's responses allow the AI to continuously refine and improve the user's profile and future searches.
+* The user's responses allow the AI to better consider the current candidate match and continuously refine and improve the user's profile and future searches.
 
 ## Privacy and Honesty First
 
