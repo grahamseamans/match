@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document proposes a matching system where you interact exclusively through a simple text interface with an LLM. Users will never view or edit their own, or any user's profile, or communicate directly with other users. Instead, the LLM handles everything in the background—building and editing your profile through conversation, finding matches, and asking users follow-up questions. Everyone can be honest search over a much larger search space.
+This document proposes a matching system where you interact exclusively through a simple text interface with an LLM. Users will never view or edit their own, or any user's profile, or communicate directly with other users. Instead, the LLM handles everything in the background—building and editing your profile through conversation, finding matches, and asking users follow-up questions. Everyone can be honest and have matching options considered over a very large search space.
 
 ## How It Works
 
